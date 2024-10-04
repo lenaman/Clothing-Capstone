@@ -457,3 +457,8 @@ input[list]:focus {
 .createTitle{
     margin-top: 3em;
 }
+.checkout-button{
+  background-color: #42071d;
+  color: white;
+  border: none;
+}
