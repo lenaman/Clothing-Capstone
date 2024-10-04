@@ -357,7 +357,7 @@ div.card.shadow-sm img {
   margin-bottom: 20px;
 }
 ::placeholder {
-  color: white !important;
+  color: rgb(83, 37, 37) !important;
 }
 input[type="text"],
 input[type="email"],
