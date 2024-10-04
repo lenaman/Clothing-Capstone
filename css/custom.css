@@ -109,7 +109,7 @@ button {
   }
 }
 @media (max-width: 992px) {
-  #baba-ji.custom-navbar {
+  #name.custom-navbar {
     display: none !important;
   }
   .open-canvas {
