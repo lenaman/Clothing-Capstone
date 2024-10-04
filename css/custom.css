@@ -309,6 +309,11 @@ div.card.shadow-sm img {
 #register-page-id .page-name {
   color: rgba(0, 0, 0, 0.788);
 }
+.click{
+  background-color: #42071d;
+  color: #fff;
+  border: none;
+}
 
 .container {
   margin-top: 20px;
