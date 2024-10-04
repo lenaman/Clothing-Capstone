@@ -326,7 +326,7 @@ div.card.shadow-sm img {
   border-radius: 10px;
 }
 .order-item {
-  border-bottom: 1px solid #350909;
+  border-bottom: 1px solid #2e0d0d;
   padding: 10px 0;
 }
 .order-item:last-child {
